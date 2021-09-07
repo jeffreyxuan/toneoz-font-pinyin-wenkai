@@ -1,4 +1,4 @@
-## ToneOZ-Pinyin-LXGWWenkai 
+## ToneOZ-Pinyin-Wenkai 
 
 ToneOZ澳声通多音字型. 搭配选音编辑器 https://toneoz.com/ime , 支持自动选择正确多音字拼音, 能够将内嵌拼音资讯的纯文字(IVS字型)贴到Office，省下大量排版及破音字校正的时间。
 
