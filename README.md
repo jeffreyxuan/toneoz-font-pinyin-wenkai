@@ -6,6 +6,10 @@ This font is based on the font "Klee One" by Fontworks, and the font "LXGW WenKa
 
 The pinyin characters are added by "ToneOZ.com" using the open source tool "Mengshen", with the "IVS" heteronyms font concept from the "Bopomofo IVS" by "But Ko".
 
+### Preview
+
+![20210907-1](https://user-images.githubusercontent.com/14179988/132369079-ecb39466-801d-4acb-bacf-f6131cd4f78c.jpg)
+
 ### Download the font
 
 You can download pre-built the TrueType font from the following page.
