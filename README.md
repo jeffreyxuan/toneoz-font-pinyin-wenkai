@@ -2,7 +2,7 @@
 
 ToneOZ「澳声通拼音文楷」多音字型。搭配选音编辑器 https://toneoz.com/ime ，支持自动选择正确多音字拼音，能够将内嵌拼音资讯的纯文字(IVS字型)贴到Office，省下大量排版及破音字校正的时间。
 
-是一款基于「FONTWORKS Klee One」以及「LXGW 霞鹜文楷」的中文字体，「表意文字变体选择器」的概念来自But Ko的「注音IVS字型规格」。
+是一款基于「FONTWORKS Klee One」以及「LXGW 霞鹜文楷」的中文字体，「表意文字变体多音字选择器」的概念来自But Ko的「注音IVS字型规格」。
 
 详细使用说明请参照
 https://toneoz.com/blog/2021/09/08/wenkai-font/
