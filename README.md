@@ -12,7 +12,7 @@ The pinyin characters are added by "ToneOZ.com" using the open source tool "Meng
 
 ## Preview
 
-![20210908-1](https://user-images.githubusercontent.com/14179988/132423639-9f4985d3-4638-4e5d-b743-2427622970c4.jpg)
+![20210908-2](https://user-images.githubusercontent.com/14179988/132431263-ebdf0766-fcf5-49dc-b1b9-96b41f6ceccd.jpg)
 
 ## Download the font
 
