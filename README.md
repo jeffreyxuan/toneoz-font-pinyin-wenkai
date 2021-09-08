@@ -20,7 +20,7 @@ You can download pre-built the TrueType font from the following page.
 
 [Latest release](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai/releases)
 
-## Source Projects
+## Open Source References
 
 * Mengshen(萌神)-pinyin(拼音)-font 
 https://github.com/MaruTama/Mengshen-pinyin-font
