@@ -4,6 +4,9 @@ ToneOZ「澳声通拼音文楷」多音字型。搭配选音编辑器 https://to
 
 是一款基于「FONTWORKS Klee One」以及「LXGW 霞鹜文楷」的中文字体，「表意文字变体选择器」的概念来自But Ko的「注音IVS字型规格」。
 
+详细使用说明请参照
+https://toneoz.com/blog/2021/09/08/wenkai-font/
+
 [![开源授权](https://img.shields.io/github/license/jeffreyxuan/toneoz-font-pinyin-wenkai)](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai)
 
 This font is based on the font "Klee One" by Fontworks, and the font "LXGW WenKai" by LXGW for adding Simplified and Traditional Chinese character glyphs.
