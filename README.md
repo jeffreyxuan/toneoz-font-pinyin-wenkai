@@ -17,6 +17,12 @@ The pinyin characters are added by "ToneOZ.com" using the open source tool "Meng
 
 ![20210908-2](https://user-images.githubusercontent.com/14179988/132431263-ebdf0766-fcf5-49dc-b1b9-96b41f6ceccd.jpg)
 
+![20210908-3](https://user-images.githubusercontent.com/14179988/132455608-d52f474d-5b6a-4961-80d7-e26ed32324dc.jpg)
+
+![20210908-4](https://user-images.githubusercontent.com/14179988/132455632-23c1aac4-6701-473b-a747-7a57127f185f.jpg)
+
+![20210908-5](https://user-images.githubusercontent.com/14179988/132455637-111eb425-0573-48c9-a4b5-8ae9af013d10.jpg)
+
 ## Download the font
 
 You can download pre-built the TrueType font from the following page.
