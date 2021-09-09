@@ -23,7 +23,7 @@ The pinyin characters are added by "ToneOZ.com" using the open source tool "Meng
 
 ![20210908-5](https://user-images.githubusercontent.com/14179988/132455637-111eb425-0573-48c9-a4b5-8ae9af013d10.jpg)
 
-## Download the font
+## Download the fonts
 
 You can download pre-built the TrueType font from the following page.
 
