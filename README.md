@@ -25,7 +25,7 @@ The pinyin characters are added by "ToneOZ.com" using the open source tool "Meng
 
 ## Download the fonts
 
-You can download pre-built the TrueType font from the following page.
+You can download the pre-built TrueType font from the following page.
 
 [Latest release](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai/releases)
 
