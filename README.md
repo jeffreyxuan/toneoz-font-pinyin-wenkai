@@ -33,19 +33,24 @@ You can download pre-built the TrueType font from the following page.
 
 * Mengshen(萌神)-pinyin(拼音)-font 
 https://github.com/MaruTama/Mengshen-pinyin-font
+
 Initial release date : Jul 27, 2019
+
 IVS version release date : Nov 1, 2020
 
 * Klee One
 https://github.com/fontworks-fonts/Klee
+
 Initial release date :  Dec 15, 2020
 
 * LXGW WenKai / 霞鹜文楷 
 https://github.com/lxgw/LxgwWenKai
+
 Initial release date : Feb 15, 2021
 
 * 注音IVS字型規格 Bopomofo IVS Font Specification 
 https://github.com/ButTaiwan/bpmfvs
+
 Initial release date : May 10, 2020
 
 ## Licence
