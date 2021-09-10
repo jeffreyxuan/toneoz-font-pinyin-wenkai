@@ -1,11 +1,11 @@
 # ToneOZ Pinyin Wenkai / 澳声通拼音文楷
 
-ToneOZ「澳声通拼音文楷」多音字型。搭配选音编辑器 https://toneoz.com/ime ，支持自动选择正确多音字拼音，能够将内嵌拼音资讯的纯文字(IVS字型)贴到Office，省下大量排版及破音字校正的时间。
+ToneOZ「澳声通拼音文楷」多音字型。搭配免费在线「选音编辑器 https://toneoz.com/ime 」，支持自动选择正确多音字拼音，能够将内嵌拼音资讯的纯文字(IVS字型)贴到Office，省下大量排版及破音字校正的时间。
 
-是一款基于「FONTWORKS Klee One」以及「LXGW 霞鹜文楷」的中文字体，「表意文字变体多音字选择器」的概念来自But Ko的「注音IVS字型规格」。
-
-详细使用说明请参照
+是一款基于「FONTWORKS Klee One」以及「LXGW 霞鹜文楷」的中文字体，「表意文字变体多音字选择器」的概念来自But Ko的「注音IVS字型规格」。详细使用说明请参照
 https://toneoz.com/blog/2021/09/08/wenkai-font/
+
+我们另外备有「拼音注音编辑器 https://toneoz.com 」，能够支持「汉语拼音正词法」、「拼音局部变色」、「任何字型配上拼音」等多种进阶功能。也是免费在线工具，欢迎使用。
 
 [![开源授权](https://img.shields.io/github/license/jeffreyxuan/toneoz-font-pinyin-wenkai)](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai)
 
