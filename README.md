@@ -26,6 +26,8 @@ The pinyin characters are added by "ToneOZ.com" using the open source tool "Meng
 
 ![20210908-4](https://user-images.githubusercontent.com/14179988/132455632-23c1aac4-6701-473b-a747-7a57127f185f.jpg)
 
+![20210908-8](https://user-images.githubusercontent.com/14179988/132795495-25446510-4263-4225-92ad-bc9a53ea2cc0.jpg)
+
 ![20210908-6](https://user-images.githubusercontent.com/14179988/132786808-020c1164-9bb8-4583-9f4a-7b9fea7effac.jpg)
 
 ![20210908-7](https://user-images.githubusercontent.com/14179988/132786839-ec268773-3c40-41d4-84bc-0a511e396e9c.jpg)
