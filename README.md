@@ -29,6 +29,63 @@ You can download the pre-built TrueType font from the following page.
 
 [Latest release](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai/releases)
 
+## About Pinyin Data
+
+In order to eliminate the errors, ToneOZ uses multiple open sources or public Chinese dictionaries to compare with each other, and then manually review all the differences.
+「澳声通词库」分别从「量大、质佳、通用」三方面来确保词库的正确性。我们利用多种开放公众使用的的中文语音来源相互比对，审核语音差异的部分，排除各辞典的逻辑编辑错误以及破音字：
+
+
+* Quantity「量大17万词」
+
+We use the mainstream dictionaries with high words coverage:
+
+我们的数据来自数个中文教学时最常用的词库 :
+
+1. CC-CEDICT , an English-Chinese dictionary since 1997.
+(普通话英汉辞典)
+
+2. Jieba, Chinese text segmentation system.
+(普通话中文分词系统《结巴》)
+
+3. 国语辞典简编本, Ministry of Education Mandarin Chinese Dictionary
+(国语教学标准字典)
+
+
+
+* Quality「质佳」
+
+We verify the pronunciation with official documents :
+
+语音资料的查证参考以下各教育主管机关的标准文件 :
+
+1. 普通话异读词审音表
+(1985年版,《普通话水平测试》标准)
+
+2. 国语一字多音审订表
+(1999年版)
+
+3. 国语辞典简编本
+
+4. 国语辞典重编本
+
+5. CC-CEDICT
+(2020年版,英语地区汉语教学常用)
+
+
+
+* Ｍodern Chinese「通用」
+
+While conflict occur, we verify with the pronunciation from the local News or entertainment video programs:
+
+语音差异部分的查核，是透过搜寻引擎或影音平台，与当地电视节目主播的发音做比对 :
+
+1. Baidu 百度
+
+2. Tencent 腾讯
+
+3. Youtube
+
+
 ## Open Source References
 
 * Mengshen(萌神)-pinyin(拼音)-font 
