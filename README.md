@@ -1,5 +1,7 @@
 # ToneOZ Pinyin Wenkai / 澳声通拼音文楷
 
+![20210908-2](https://user-images.githubusercontent.com/14179988/132431263-ebdf0766-fcf5-49dc-b1b9-96b41f6ceccd.jpg)
+
 ToneOZ「澳声通拼音文楷」多音字型。搭配「免费免安装」在线工具：
 
 * 「IVS选音编辑器 https://toneoz.com/ime 」
@@ -18,9 +20,7 @@ This font is based on the font "Klee One" by Fontworks, and the font "LXGW WenKa
 
 The pinyin characters are added by "ToneOZ.com" using the open source tool "Mengshen", with the "IVS" heteronyms font concept from the "Bopomofo IVS" by "But Ko".
 
-## Preview
-
-![20210908-2](https://user-images.githubusercontent.com/14179988/132431263-ebdf0766-fcf5-49dc-b1b9-96b41f6ceccd.jpg)
+## Features
 
 ![20210908-3](https://user-images.githubusercontent.com/14179988/132455608-d52f474d-5b6a-4961-80d7-e26ed32324dc.jpg)
 
