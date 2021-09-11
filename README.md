@@ -1,8 +1,8 @@
 # ToneOZ Pinyin Wenkai / 澳声通拼音文楷
 
-![20210908-2](https://user-images.githubusercontent.com/14179988/132431263-ebdf0766-fcf5-49dc-b1b9-96b41f6ceccd.jpg)
+![20210908-9](https://user-images.githubusercontent.com/14179988/132934590-18bc9a39-4e67-44d2-8e34-29679bf53b20.jpg)
 
-ToneOZ「澳声通拼音文楷」多音字型。搭配「免费免安装」在线工具：
+可选多音字的TrueType拼音字型。搭配「免费免安装」在线选音工具：
 
 * 「IVS选音编辑器 https://toneoz.com/ime 」
 
@@ -40,7 +40,9 @@ You can download the pre-built TrueType font from the following page.
 
 [Latest release](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai/releases)
 
-## About Pinyin Data
+## About Pinyin Data 拼音数据库
+
+我们的拼音来源是 https://toneoz.com/data 「澳声通普通话与国语数据库」
 
 In order to eliminate the errors, ToneOZ uses multiple open sources or public Chinese dictionaries to compare with each other, and then manually review all the differences.
 
