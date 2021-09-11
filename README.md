@@ -1,4 +1,4 @@
-# ToneOZ Pinyin Wenkai / 澳声通拼音文楷
+# ToneOZ Pinyin Wenkai / 澳声通拼音文楷 TrueType字型
 
 ![20210908-9](https://user-images.githubusercontent.com/14179988/132934590-18bc9a39-4e67-44d2-8e34-29679bf53b20.jpg)
 
