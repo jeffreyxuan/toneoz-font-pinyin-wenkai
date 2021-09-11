@@ -46,7 +46,7 @@ You can download the pre-built TrueType font from the following page.
 
 In order to eliminate the errors, ToneOZ uses multiple open sources or public Chinese dictionaries to compare with each other, and then manually review all the differences.
 
-「澳声通词库」分别从「量大、质佳、通用」三方面来确保词库的正确性。我们利用多种开放公众使用的的中文语音来源相互比对，审核语音差异的部分，排除各辞典的逻辑编辑错误以及破音字：
+「澳声通词库」分别从「量大、质佳、通用」三方面来确保词库的正确性。我们利用多种开放公众使用的中文语音来源相互比对，审核语音差异的部分，排除各辞典的逻辑编辑错误以及破音字：
 
 
 * Quantity「量大17万词」
