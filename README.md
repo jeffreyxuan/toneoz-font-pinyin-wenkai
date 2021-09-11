@@ -2,7 +2,7 @@
 
 ![20210908-9](https://user-images.githubusercontent.com/14179988/132934590-18bc9a39-4e67-44d2-8e34-29679bf53b20.jpg)
 
-可选多音字的TrueType拼音字型。搭配「免费免安装」在线选音工具：
+可选多音字的TrueType拼音字型，SIL Open Font License可免费商用。搭配「免费免安装」在线选音工具：
 
 * 「IVS选音编辑器 https://toneoz.com/ime 」
 
