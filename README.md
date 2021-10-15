@@ -1,6 +1,5 @@
 # ToneOZ Pinyin Wenkai / 澳声通拼音文楷 TrueType字型
-
-![20210920-1](https://user-images.githubusercontent.com/14179988/133963658-cc87d163-aa84-4291-9e1a-57f5072b455a.jpg)
+![20211006-3](https://user-images.githubusercontent.com/14179988/136190202-c018b8e4-1f5b-4409-8cf0-33d904c771f4.jpg)
 
 可选多音字的TrueType拼音字型，可免费商用。搭配「免费免安装」在线选音工具：
 
