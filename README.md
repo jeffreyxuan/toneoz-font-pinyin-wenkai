@@ -43,12 +43,13 @@ You can download the pre-built TrueType font from the following page.
 
 我们全力以赴来研发最精良教学工具，您的支持能让我们有力量继续前进，欢迎自由赞助任何金额！
 
-绿界Pay第三方支付捐款赞助ToneOZ(支持Visa/Master信用卡/ATM/超商)
+* 銀行轉帳 贊助ToneOZ 國泰世華銀行(013) 台北分行(0073) 帳戶號碼 : 007174373471
+
+* 绿界Pay第三方支付捐款赞助ToneOZ(支持Visa/Master信用卡/ATM/超商)
 
 https://p.ecpay.com.tw/E12FB5D
 
 ![20220126_donate_ecpay](https://user-images.githubusercontent.com/14179988/152604422-cd9fef66-bc3f-4a25-bf6c-b1d661ee428e.jpg)
-
 
 ## About Pinyin Data 拼音数据库
 
