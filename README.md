@@ -39,6 +39,17 @@ You can download the pre-built TrueType font from the following page.
 
 [Latest release](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai/releases)
 
+## Donate 請斗內捐款支持我們
+
+我们全力以赴来研发最精良教学工具，您的支持能让我们有力量继续前进，欢迎自由赞助任何金额！
+
+绿界Pay第三方支付捐款赞助ToneOZ(支持Visa/Master信用卡/ATM/超商)
+
+https://p.ecpay.com.tw/E12FB5D
+
+![20220126_donate_ecpay](https://user-images.githubusercontent.com/14179988/152604422-cd9fef66-bc3f-4a25-bf6c-b1d661ee428e.jpg)
+
+
 ## About Pinyin Data 拼音数据库
 
 我们的拼音来源是 https://toneoz.com/data 「澳声通普通话与国语数据库」
