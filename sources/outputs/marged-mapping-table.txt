@@ -663,7 +663,7 @@ U+4DA7: yǎo,jiāo  #䶧
 U+4E00: yī,yí,yì,yi  #一
 U+4E01: dīng,zhēng,ding  #丁
 U+4E02: kǎo,qiǎo,yú  #丂
-U+4E03: qī  #七
+U+4E03: qī,qí  #七
 U+4E04: shàng,shǎng  #丄
 U+4E05: xià  #丅
 U+4E07: mò,wàn  #万
@@ -1425,7 +1425,7 @@ U+5167: nèi,nà,nei  #內
 U+5168: quán  #全
 U+5169: liǎng,liàng  #兩
 U+516A: yù,yú,shū,shù  #兪
-U+516B: bā,ba  #八
+U+516B: bā,ba,bá  #八
 U+516C: gōng,gong  #公
 U+516D: liù,lù,lù  #六
 U+516E: xī  #兮
@@ -11944,7 +11944,7 @@ U+7FA1: yí,xiàn  #羡
 U+7FA2: róng  #羢
 U+7FA3: qún  #羣
 U+7FA4: qún  #群
-U+7FA5: qiáng,qiǎng,kēng,qiān  #羥
+U+7FA5: qiáng,qiǎng,kēng,qiān,qīng  #羥
 U+7FA6: huán  #羦
 U+7FA7: suō,zuī  #羧
 U+7FA8: xiàn,yí  #羨
@@ -15750,7 +15750,7 @@ U+90FA: yōng  #郺
 U+90FB: qiāo  #郻
 U+90FC: yī  #郼
 U+90FD: dōu,dū  #都
-U+90FE: yǎn  #郾
+U+90FE: yǎn,yàn  #郾
 U+90FF: méi  #郿
 U+9100: ruò  #鄀
 U+9101: bèi  #鄁
@@ -17842,7 +17842,7 @@ U+9B8C: gǔn  #鮌
 U+9B8D: pī,pí,pì  #鮍
 U+9B8E: nián,yǎn  #鮎
 U+9B8F: xīng  #鮏
-U+9B90: tái  #鮐
+U+9B90: tái,yí  #鮐
 U+9B91: bào,bāo  #鮑
 U+9B92: fù,chóu  #鮒
 U+9B93: zhǎ,zhà  #鮓
@@ -19701,7 +19701,7 @@ U+9A8F: jùn  #骏
 U+8424: yíng  #萤
 U+789C: chěn,cà,chen  #碜
 U+8780: jiāng  #螀
-U+7F9F: qiǎng,qiān  #羟
+U+7F9F: qiǎng,qiān,qiáng,kēng,qīng  #羟
 U+7574: chóu  #畴
 U+7ECC: chù  #绌
 U+7F2D: liáo,rǎo  #缭
@@ -20065,7 +20065,7 @@ U+5523: zào  #唣
 U+953E: huán  #锾
 U+5942: huàn  #奂
 U+9E35: tuó  #鸵
-U+9C90: tái  #鲐
+U+9C90: tái,yí  #鲐
 U+8DF9: xiān  #跹
 U+631D: wō,zhuā  #挝
 U+67A5: lì  #枥
@@ -21590,3 +21590,4 @@ U+9F21: shǔ  #鼡
 U+9F62: líng  #齢
 U+9F80: chèn  #龀
 U+9F81: hé  #龁
+U+2B6ED: kuáng  #𫛭
