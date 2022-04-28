@@ -1123,7 +1123,7 @@ U+5025: kōng,kǒng  #倥
 U+5026: juàn  #倦
 U+5027: zōng  #倧
 U+5028: jù  #倨
-U+5029: qiàn  #倩
+U+5029: qiàn,qìng  #倩
 U+502A: ní  #倪
 U+502B: lún  #倫
 U+502C: zhuó,zhuō  #倬
@@ -11817,7 +11817,7 @@ U+7E7E: qiǎn  #繾
 U+7E7F: lán  #繿
 U+7E80: pú,fú  #纀
 U+7E81: xūn  #纁
-U+7E82: zuǎn  #纂
+U+7E82: zuǎn,zuǎ  #纂
 U+7E84: péng  #纄
 U+7E85: yào,lì  #纅
 U+7E86: mò  #纆
@@ -16629,7 +16629,7 @@ U+959E: biàn,guān  #閞
 U+959F: bì  #閟
 U+95A1: hé,ài,hè  #閡
 U+95A2: guān  #関
-U+95A3: gé  #閣
+U+95A3: gé,gē  #閣
 U+95A4: gé,hé  #閤
 U+95A5: fá  #閥
 U+95A6: chù  #閦
@@ -19245,7 +19245,7 @@ U+91CA: shì,yì  #释
 U+7F20: chán,chan  #缠
 U+94FE: liàn,lián  #链
 U+94B3: qián,ān  #钳
-U+9601: gé  #阁
+U+9601: gé,gē  #阁
 U+9503: zèng,zhèng  #锃
 U+9274: jiàn  #鉴
 U+4EB5: xiè  #亵
